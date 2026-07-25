@@ -1,0 +1,195 @@
+html {
+    background-color: #f0bc79 ;
+}
+.bienvenida {
+    color: #534b3c;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.6em;
+}
+.titulo-indice {
+    color: #534b3c;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.snopy {
+    border: 8px double #373f2f;
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px auto;
+    align-items: center;
+    padding: 20px;
+    display: block;
+}
+
+.Finalizacion {
+    color: #473f2f;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2em;
+}
+.nosotros {
+    color: #534b3c;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+}
+.patito {
+    width: 20%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.titulo-animales {
+    color: #534b3c;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2em;
+}
+.cebra {
+     color: #534b3c;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+}
+.cebraimg { 
+    border: 8px double #373f2f;
+    border-radius: 10px;
+    width: 25%;
+    margin: 20px auto;
+    align-items: center;
+    padding: 20px;
+    display: block;
+}
+.jirafa {
+    color: #534b3c;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+}
+.jirafaimg  { 
+    border: 8px double #373f2f;
+    border-radius: 10px;
+    width: 25%;
+    margin: 20px auto;
+    align-items: center;
+    padding: 20px;
+    display: block;
+}
+.topo {
+    color: #534b3c;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+}
+.topoimg  { 
+    border: 8px double #373f2f;
+    border-radius: 10px;
+    width: 25%;
+    margin: 20px auto;
+    align-items: center;
+    padding: 20px;
+    display: block;
+}
+.tituloA {
+    color: #534b3c;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2em;
+}
+.artemis {
+    color: #534b3c;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+}
+
+.tripulación {
+    color: #534b3c;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+}
+.tripulaciónimg {
+    border: 8px solid #373f2f;
+    width: 45%;
+    margin: 10px auto;
+    align-items: center;
+    padding: 10px;
+    display: block;
+}
+.naveimg {
+    border: 8px solid #373f2f;
+    width: 45%;
+    margin: 10px auto;
+    align-items: center;
+    
+}
+.cine {
+    color: #534b3c;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2em;
+}
+.avatar {border: 8px double #373f2f;
+    width: 25%;
+    margin: 20px auto;
+    align-items: center;
+    padding: 20px;
+    display: block;
+}
+.animada {border: 8px double #373f2f;
+    width: 25%;
+    margin: 20px auto;
+    align-items: center;
+    padding: 20px;
+    display: block;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto 20px;
+    padding: 12px 18px;
+    background-color: #e8c68a;
+    border: 2px solid #7a5d2f;
+    border-radius: 999px;
+    width: fit-content;
+
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+}
+
+nav a {
+    color: #534b3c;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2em;
+    text-decoration: none;
+    padding: 6px 10px;
+    border-radius: 999px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #36573b;
+    color: #f4ead8;
+    text-decoration: none;
+}
+.iaimg {
+    border: 8px double #373f2f;
+    border-radius: 10px;
+    width: 30%;
+    margin: 20px auto;
+    align-items: center;
+    padding: 20px;
+    display: block;
+}
